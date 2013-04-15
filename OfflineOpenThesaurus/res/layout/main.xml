@@ -14,7 +14,7 @@
 				android:id="@+id/AutoCompleteTextView01" android:layout_marginTop="10dip"
 				android:layout_marginLeft="10dip" android:layout_marginRight="10dip"
 				android:completionThreshold="2" android:imeOptions="actionSearch"
-				android:hint="Suchwort" 
+				android:hint="Αναζήτηση" 
 				android:selectAllOnFocus="true"
 				android:fadeScrollbars="false" android:textColor="#6C88A3"
 				android:drawableRight="@drawable/logo" android:dropDownHeight="180dip"

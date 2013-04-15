@@ -3,6 +3,6 @@
 <searchable xmlns:android="http://schemas.android.com/apk/res/android"
         android:label="@string/search_label"
         android:includeInGlobalSearch="true"
-        android:searchSuggestAuthority="synonyme_offline"
+        android:searchSuggestAuthority="synonyms_offline"
         android:searchSuggestIntentAction="android.intent.action.VIEW">
 </searchable>
